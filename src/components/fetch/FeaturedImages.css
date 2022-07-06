@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+.item-container {
+  display: flexbox;
+  display: flex;
+  flex-wrap: wrap;
+
+  padding: 0 4px;
+}
+
+#divCardId {
+  flex: 33%;
+  flex: 33%;
+  padding: 0 4px;
+}
+
+#singleImageId {
+  height: 200px;
+  width: auto;
+}
